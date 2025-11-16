@@ -234,7 +234,7 @@ print(f"CV Score: {cv_scores.mean():.4f} ± {cv_scores.std():.4f}")
 ## 📚 References
 
 - **Kaggle Competition:** [Titanic - Machine Learning from Disaster](https://www.kaggle.com/competitions/titanic)
-- **Course:** [MACHINE LEARNING by DATAI TEAM](https://www.kaggle.com/dataitgirls)
+- **Inspired by:** [DataiTeam Titanic EDA](https://www.kaggle.com/code/kanncaa1/dataiteam-titanic-eda)
 
 ## 📄 License
 
