@@ -157,7 +157,6 @@ The dataset contains passenger information including age, sex, ticket class, far
 ```
 Titanic-Survival-Prediction/
 ├── the-titanic-project.ipynb    # Main notebook
-├── the-titanic-project.py       # Python script version
 ├── README.md                    # This file
 └── LICENSE                      # Apache 2.0 license
 ```
